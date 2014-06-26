@@ -1,4 +1,1 @@
-banchal = banchal <banchal@searshc.com>
-rkande = rkande <rkande@searshc.com>
-rachan = rachan <rachan@searshc.com>
-
+abc = abc <abc@xyz.com>
